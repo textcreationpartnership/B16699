@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>September, the 16th. 1681. An advertisement from the Insurance-Office for Houses, &amp;c.</title>
+            <author>Fire Office (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16699</idno>
+            <idno type="STC">Wing A615</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[68]</idno>
+            <idno type="STC">ESTC R224709</idno>
+            <idno type="EEBO-CITATION">99885607</idno>
+            <idno type="PROQUEST">ocm99885607</idno>
+            <idno type="VID">185391</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B16699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185391)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[67])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>September, the 16th. 1681. An advertisement from the Insurance-Office for Houses, &amp;c.</title>
+                  <author>Fire Office (London, England)</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Insurance, Fire --  England --  Early works to 1800.</term>
+               <term>Insurance --  Rates and tables --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:185391:1" rendition="simple:additions"/>
+            <head>
+               <hi>September,</hi> the <hi>16th.</hi> 1681. AN ADVERTISEMENT FROM THE Inſurance-Office for Houſes, &amp;c.</head>
+            <p>THeſe are to give Notice, That the <hi>Office</hi> and <hi>Security,</hi> formerly propoſed for <hi>Inſuring Houſes from Fire,</hi> after the Rate of <hi>Six Pence per Pound</hi> for <hi>Brick-Houſes,</hi> and <hi>Twelve Pence</hi> for <hi>Timber,</hi> is NOW Perfected and Set<g ref="char:EOLhyphen"/>tled; and the <hi>Perſons</hi> concerned in the <hi>Security,</hi> will Attend every Day at their <hi>Office</hi> on the Back-Side of the <hi>Royal-Exchange,</hi> from the Hours of <hi>Nine</hi> till <hi>Twelve</hi> in the Forenoon, and from <hi>Three</hi> till <hi>Six</hi> in the Afternoon, to Sub<g ref="char:EOLhyphen"/>ſcribe <hi>Policies</hi> for all Perſons deſirous to <hi>Inſure</hi> their <hi>Houſes,</hi> as far as the Number of <hi>Three Thouſand Houſes.</hi>
+            </p>
+            <p>Much Labour, much Time hath been ſpent in Settling this Affair: It being above a Year ſince the <hi>Propoſitions</hi> for <hi>Inſuring Houſes from Fire</hi> were firſt made Publick. This hath occaſioned ſeveral Diſcourſes, as if it were a Project in its own Nature, not to be Practiſed; and would prove like the Abortive Conceits of ſeveral Others, in this laſt <hi>Twenty</hi> Years, on this Subject. But whoſoever conſiders the <hi>Wayes</hi> and <hi>Means</hi> that were at firſt Propoſed to be followed in <hi>Settling this Deſigne,</hi> ſuch as were thought ab<g ref="char:EOLhyphen"/>ſolutely neceſſary to give that Satisfaction, which the Greatneſs of the Concern did require, will believe this <hi>Affair</hi> could not have been otherwiſe, or ſooner Effected.</p>
+            <p>The <hi>Way</hi> and <hi>Means</hi> to <hi>Settle this Deſigne,</hi> as it was firſt Propoſed, was thus; That there ſhould be <hi>General-Meetings</hi> of all Perſons, that had any Thoughts of <hi>Inſuring their Houſes,</hi> and were Well-Wiſhers to ſuch a <hi>Deſigne,</hi> before any <hi>Security</hi> was Set<g ref="char:EOLhyphen"/>tled: At which Publick Meetings, the <hi>Value</hi> and <hi>Nature</hi> of the <hi>Security, Manner</hi> and <hi>Method</hi> of Settling it, and all Things elſe that could be offered either to the Advantage or Diſadvantage of this <hi>Deſigne,</hi> ſhould be Debated, and Regulated.</p>
+            <p>This Scrutiny this <hi>Office</hi> was to paſs: For though ſome Publick Deſignes<g ref="char:punc">▪</g> whoſe <hi>Fund</hi> have been <hi>Reputation,</hi> &amp; <hi>Perſonal Credit,</hi> have Thriven beſt without Examination, &amp; (of a ſuddain) Raiſed Themſelves into great Reputation; yet ſometimes (<hi>Muſhroom</hi>-like) they have had their Duration and Riſe equal: their Creditors having loſt their Money, be<g ref="char:EOLhyphen"/>fore they had the Leiſure to conſider why they Truſted them. So, on the contrary, thoſe <hi>Deſignes,</hi> whoſe <hi>Fund</hi> are in Land, being Real and Certain, can have no grea<g ref="char:EOLhyphen"/>ter Advantage, than to have their <hi>Foundation</hi> Examined by thoſe that Truſt them: And though ſuch Deliberation may make their Beginnings and Growth ſlow; yet They will be like the <hi>Oak,</hi> Durable.</p>
+            <p>Many <hi>General-Meetings,</hi> upon Publick Notice, were held at the <hi>Office,</hi> where ſeve<g ref="char:EOLhyphen"/>ral <hi>Gentlemen,</hi> and Eminent <hi>Citizens</hi> were preſent. The firſt Debate was about the <hi>Value</hi> of the <hi>Security,</hi> Whether <hi>Forty Thouſand Pounds</hi> was Sufficient to Secure <hi>Ten Thouſand Houſes,</hi> as it was firſt Propoſed, with the Addition of <hi>Ten Thouſand Pounds</hi> for every <hi>Ten Thouſand Houſes?</hi> This, after much Debate, appeared to be Sufficient to the Majority; becauſe though <hi>Ten Thouſand Houſes</hi> are of greater Value, than the <hi>Fund;</hi> yet being ſuppoſed that they will ſtand at great Diſtances, they could not be Deſtroyed by any One <hi>Fire:</hi> Yet becauſe ſome <hi>Gentlemen</hi> queſtioned it, and it being the Deſigne of thoſe Perſons concerned in the <hi>Office,</hi> to give full Satisfaction to All; it was at laſt agreed, That the Security of <hi>Forty Thouſand Pounds</hi> then Propoſed, ſhould be only for the <hi>Inſuring</hi> of <hi>Five Thouſand Houſes,</hi> with the Addition of <hi>Ten Thou<g ref="char:EOLhyphen"/>ſand Pounds,</hi> for every <hi>Five Thouſand Houſes.</hi>
+            </p>
+            <p>The next Debate was the <hi>Nature of the Security,</hi> which was propoſed to be in <hi>Ground-Rents:</hi> This was agreed by all, to be the beſt ſort of <hi>Security,</hi> and leaſt ſubject to Altera<g ref="char:EOLhyphen"/>tion in <hi>Value:</hi> Thoſe that were Propoſed, were the Ground-Rents of <hi>Eſſex-Buildings,</hi> being about <hi>One Thouſand</hi> and <hi>Fifty Pounds per Annum;</hi> the Ground-Rents at the
+<pb n="2" facs="tcp:185391:2"/> Lower-End of St. <hi>Martins-Lane,</hi> being about <hi>Three Hundred</hi> and <hi>Fifty Pounds per An<g ref="char:EOLhyphen"/>num;</hi> and the Ground-Rents of <hi>Devonſhire-Buildings</hi> without <hi>Biſhops-gate,</hi> being about <hi>Seven Hundred Pounds per Annum,</hi> when they are all Built on: But becauſe They were not all Finiſh't, that was made an Objection; but Anſwered; That it was probable, they would be Finiſhed before the Number of <hi>Five Thouſand Houſes</hi> were <hi>Inſured:</hi> Yet to avoyd that Scruple, it was agreed to Settle (at preſent) only the Ground-Rents of <hi>Eſſex,</hi> and St. <hi>Martin's-Buildings</hi> for <hi>Three Thouſand Houſes;</hi> and when the Ground-Rents of <hi>Devonſhire-Buildings</hi> are Finiſhed, to Settle them for <hi>Two Thou<g ref="char:EOLhyphen"/>ſand</hi> more.</p>
+            <p>The <hi>Manner</hi> of <hi>Settling this Fund</hi> was debated; which was; that theſe E<g ref="char:EOLhyphen"/>ſtates ſhould be conveyed to ſeveral eminent, and known Perſons, whom the <hi>Com<g ref="char:EOLhyphen"/>pany</hi> ſhould approve of in <hi>Truſt</hi> for this Uſe: Several Gentlemen were named; and thoſe that were pleaſed to accept of the <hi>Trust,</hi> were, Sir <hi>Joſeph Sheldon</hi> (ſince De<g ref="char:EOLhyphen"/>ceaſed) Sir <hi>George Treby,</hi> Recorder of the City of <hi>London,</hi> Sir <hi>Michael Heneage,</hi> Sir <hi>William Warren,</hi> Sir <hi>Richard How,</hi> Lieutenant Collonel <hi>Rich, William Thompſon,</hi> Eſq; <hi>George Bradbury,</hi> Eſq; both of the <hi>Middle-Temple; Edward Maynard,</hi> Eſq; Mr. <hi>Ralph Hartley,</hi> and Mr. <hi>Nathaniel Hawes.</hi>
+            </p>
+            <p>Laſt of all, the <hi>Method</hi> of <hi>Settling</hi> this Deſign was debated, which was agreed to be referred to ſuch <hi>Councel,</hi> as ſhould be then Choſen; there was alſo a <hi>Committee</hi> choſen of ſeveral Gentlemen then preſent, which were deſired to Attend the <hi>Councel,</hi> and ſee the Execution of all things debated, and agreed to. The <hi>Councel</hi> Choſen, were Sir <hi>Francis Pemberton,</hi> now Lord Chief Juſtice, Sir <hi>William Jones,</hi> Sir <hi>Francis Winnington,</hi> Mr. <hi>Williams,</hi> late Speaker to the <hi>Houſe of Commons,</hi> Mr. <hi>Moſier,</hi> Mr. <hi>Polixfen,</hi> Mr. <hi>Saunders,</hi> and Mr. <hi>Whitaker:</hi> The <hi>Councel</hi> were all Attended ſeveral times by the <hi>Committee:</hi> And at laſt, at a general Meeting of the <hi>Councel</hi> and <hi>Committee,</hi> af<g ref="char:EOLhyphen"/>ter a due Examination of the <hi>Title,</hi> and of all other things that were Debated, and Propoſed to them. The <hi>Councel</hi> did all agree to the Conveyance; but altered the <hi>Propoſition for Re-building;</hi> ſo that if a <hi>Houſe Inſured</hi> be <hi>Burnt,</hi> the Loſs muſt be ſatisfied in Money; for the <hi>Office</hi> is not to Re-build; though both were at firſt Pro<g ref="char:EOLhyphen"/>poſed (to be at the Election of the <hi>Inſured.</hi>) This was thought neceſſary to avoid thoſe Diſputes, which might ariſe about the Dimenſions, Form, and Subſtantialneſs of <hi>Building.</hi>
+            </p>
+            <p>The <hi>Form of the Policy</hi> was alſo <hi>Settled</hi> by the <hi>Councel;</hi> and the Names of thoſe Per<g ref="char:EOLhyphen"/>ſons that are to Subſcribe them, are Mr. <hi>Samuel Vincent,</hi> Dr. <hi>Nicholas Barbon,</hi> Mr. <hi>Benjamin Bartlet,</hi> Mr. <hi>Samuel Tookey,</hi> &amp;c. And any <hi>Two</hi> of them Signing, make good the <hi>Policy.</hi>
+            </p>
+            <p>This was the <hi>Method</hi> that was followed in Forming this Deſign, and although all Endeavours were uſed for diſpatch: yet through the Weightyneſs of the Affair, Number, and Greatneſs of the <hi>Councel;</hi> it was laſt <hi>Trinity-Term,</hi> before the laſt peruſal of this <hi>Settlement,</hi> had paſſed all the <hi>Councel;</hi> Since, the Time has been ſpent in <hi>Ingroſſing the Conveyances,</hi> Sealing, and Inrolling of the <hi>Deeds,</hi> and Attornment of the <hi>Tenants,</hi> according as <hi>Councel</hi> Directed. And although ſome Perſons, who have had the Misfortune in the <hi>Interim,</hi> to loſe their <hi>Houſes</hi> for want of the <hi>Office</hi> being <hi>Settled;</hi> (they being ſince <hi>Burnt</hi>) have Cauſe to think it Tedious; yet the Generality of Men will agree, This Deſign could not have been ſooner perfected.</p>
+            <p>
+               <hi>THeſe are to give Notice, That whereas ſeveral Gentlemen, to ſhew their willingneſs to Encourage this Deſign, have Subſcribed to <hi>Inſure</hi> their <hi>Houſes,</hi> as ſoon as the Conveyances were <hi>Settled;</hi> upon which Account it was Propoſed, as an acknowledge<g ref="char:EOLhyphen"/>ment for their Encouraging the <hi>Office,</hi> that they ſhould have a Years Purchaſe <hi>Gratis:</hi> That is, That they ſhould <hi>Inſure Eight</hi> Years for <hi>Five</hi> Paid, <hi>Twelve</hi> for <hi>Seven. Twen<g ref="char:EOLhyphen"/>ty-One</hi> for <hi>Nine,</hi> and <hi>Thirty-One</hi> for <hi>Ten.</hi> And, Whereas many more would have Sub<g ref="char:EOLhyphen"/>ſcribed, had there been due Attendance given at the <hi>Office:</hi> And becauſe it is now Va<g ref="char:EOLhyphen"/>cation; It is therefore thought fit to propoſe; That thoſe Gentlemen that ſhall <hi>Inſure</hi> their <hi>Houſes,</hi> and take their <hi>Policies</hi> before the Firſt Day of <hi>November</hi> next, ſhall have the ſame Advantage with thoſe that did Subſcribe</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
